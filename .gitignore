@@ -1,0 +1,3 @@
+#ignorer les csv 
+.csv
+.py
